@@ -1,0 +1,5 @@
+matplotlib
+numpy
+pysiology
+scikit-learn
+tqdm
